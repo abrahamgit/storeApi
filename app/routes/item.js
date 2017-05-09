@@ -10,7 +10,6 @@ function getItems(req, res) {
 	query.exec((err, Items) => {
 		if(err) res.send(err);
 		//If no errors, send them back to the client
-		 res.addHeader('Access-Control-Allow-Origin', '*');
 		res.json(Items);
 	});
 }
