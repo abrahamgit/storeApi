@@ -1,0 +1,3 @@
+{
+	"DBHost": "DBHost": "mongodb://localhost:27017/item-test"
+}
