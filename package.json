@@ -1,7 +1,7 @@
 {
-  "name": "bookstore",
+  "name": "storeApi",
   "version": "1.0.0",
-  "description": "A bookstore API",
+  "description": "A itemstore API",
   "main": "server.js",
   "author": "Sam",
   "license": "ISC",
